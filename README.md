@@ -1,6 +1,6 @@
 ### 안녕하세요 👋
 ### 제 이름은 백근주이고 자율주행분야 공부를 진행하고 있습니다.
-### 현재 세종대학교 지능기전공학부 3학년에 재학중이며 Object Detection 분야를 공부중입니다.
+### 현재 세종대학교 지능기전공학부 4학년에 재학중이며 3D Vision / Object Detection 분야를 공부중입니다.
 <!--
 **Geunju-hub/Geunju-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
