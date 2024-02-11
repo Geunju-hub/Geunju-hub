@@ -5,10 +5,6 @@
 ### 궁금한 점이 있으시면, 언제든 아래 이메일로 연락 주세요!
 #### Naver e-mail : ever4red@naver.com
 
-### When you want to know the detail about me, Please Come To My Notion!
-[Notion link](https://www.notion.so/10bf40bff89240dc920be4e0c0364828?pvs=4)
-
-
 <!--
 **Geunju-hub/Geunju-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
