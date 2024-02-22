@@ -18,7 +18,7 @@
 
 - Dacon / Kaggle
 
-    - `2024` `Dacon` `Jigsaw puzzle` Solving Jigsaw puzzle 3/806
+    - `2024` `Dacon` `Jigsaw puzzle` Solving Jigsaw puzzle `3/806`
     - `2023` `Dacon` `Object Detection` Synthetic data based Object Detection `1/855`
 
 - Others
