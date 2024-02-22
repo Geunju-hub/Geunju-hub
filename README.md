@@ -19,11 +19,11 @@
 - Dacon / Kaggle
 
     - `2024` `Dacon` `Jigsaw puzzle` Solving Jigsaw puzzle 3/806
-    - `2023` `Dacon` `Object Detection` [Synthetic data based Object Detection](https://github.com/Geunju-hub/Synthetic-Data-Object-Detection) `1/855`
+    - `2023` `Dacon` `Object Detection` Synthetic data based Object Detection `1/855`
 
 - Others
 
     - `2024` `SNUH Medical Image AI Challenge 2023` `Image & Tabular Regression` Melanoma Recurrence Prediction `1/12`
-    - `2023` `K-water AI Competition 1st` `Object Detection` [Fish Detection](https://github.com/Geunju-hub/K-Water-AI-Competition) `1/69`
-    - `2023` `2023 CJ Logistics Future Technology Challenge` `Object Detection` [Image Retrieval and Object Detection](https://github.com/Geunju-hub/CJ-Logistics-Future-Technology-Challenge-2023) `2/19`
+    - `2023` `K-water AI Competition 1st` `Object Detection` Fish Detection `1/69`
+    - `2023` `2023 CJ Logistics Future Technology Challenge` `Object Detection` Image Retrieval and Object Detection `2/19`
 
