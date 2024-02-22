@@ -1,23 +1,29 @@
-### 안녕하세요 👋
-### 제 이름은 백근주이고 자율주행분야 공부를 진행하고 있습니다.
-### 현재 세종대학교 지능기전공학부 4학년에 재학중이며 3D Vision / Multi-Task Learning / 3D Object Detection / 3D Occupancy Prediction 분야를 공부중입니다.
+### About Me
+- B.S. in `Intelligent Mechatronics Engineering`, `Sejong University`
+- Interests : 3D Vision / Multi-Task Learning / 3D Object Detection / 3D Occupancy Prediction
 
-### 궁금한 점이 있으시면, 언제든 아래 이메일로 연락 주세요!
-#### Naver e-mail : ever4red@naver.com
+### Experiences
+- 2023.12 ~ 2024.02 : Medical Image AI Challenge 2023 (Pathology data), SNUH
+- 2023.07 ~ 2023.09 : 2023 CJ Logistics Future Technology Challenge, CJ Logistics
+- 2023.05 ~ 2023.07 : Synthetic data based Object Detection AI Competition, Visol
+- 2022.12 ~ 2023.02 : Under Graduate Research Intern, Hanyang SPA lab
+- 2022.07 ~ 2022.12 : Under Graduate Research Intern, Sejong IVPG lab
+  
+### Awards and Honors
+- `2024` `SNUH` [Medical Image AI Challenge 2023 (Pathology data)](https://maic.or.kr/competitions/28/infomation) `1st Place`
+- `2023` `K-Water` [2023 3rd K-Water AI Competition](https://aifactory.space/task/2600/overview) `1st Place`
+- `2023` `VISOL` [Synthetic data based Object Detection AI Competition](https://dacon.io/competitions/official/236107/overview/description) `1st Place`
 
-<!--
-**Geunju-hub/Geunju-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Contest
 
-Here are some ideas to get you started:
+- Dacon / Kaggle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - `2024` `Dacon` `Jigsaw puzzle` Solving Jigsaw puzzle 3/806
+    - `2023` `Dacon` `Object Detection` [Synthetic data based Object Detection](https://github.com/Geunju-hub/Synthetic-Data-Object-Detection) `1/855`
 
-![GeunJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeunJu-hub&show_icons=true&theme=radical)
+- Others
+
+    - `2024` `SNUH Medical Image AI Challenge 2023` `Image & Tabular Regression` Melanoma Recurrence Prediction `1/12`
+    - `2023` `K-water AI Competition 1st` `Object Detection` [Fish Detection](https://github.com/Geunju-hub/K-Water-AI-Competition) `1/69`
+    - `2023` `2023 CJ Logistics Future Technology Challenge` `Object Detection` [Image Retrieval and Object Detection](https://github.com/Geunju-hub/CJ-Logistics-Future-Technology-Challenge-2023) `2/19`
+
