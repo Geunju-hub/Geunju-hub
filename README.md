@@ -1,6 +1,6 @@
 ### About Me
 - B.S. in `Intelligent Mechatronics Engineering`, `Sejong University`
-- Interests : 3D Vision / Multi-Task Learning / 3D Object Detection / 3D Occupancy Prediction
+- Interests : 3D Vision / Sensor Fusion / 3D Object Detection / 3D Occupancy Prediction
 
 ### Experiences
 - 2023.12 ~ 2024.02 : Medical Image AI Challenge 2023 (Pathology data), SNUH
