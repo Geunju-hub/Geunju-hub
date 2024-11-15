@@ -12,7 +12,7 @@
 - 2022.07 ~ 2022.12 : Under Graduate Research Intern, Sejong IVPG lab
   
 ### Awards and Honors
-- `2024` `ETRI` [Autonomous AI Challenge] `2nd Place`
+- `2024` `ETRI` Autonomous AI Challenge `2nd Place`
 - `2024` `SNUH` [Medical Image AI Challenge 2023 (Pathology data)](https://maic.or.kr/competitions/28/infomation) `1st Place`
 - `2023` `K-Water` [2023 3rd K-Water AI Competition](https://aifactory.space/task/2600/overview) `1st Place`
 - `2023` `VISOL` [Synthetic data based Object Detection AI Competition](https://dacon.io/competitions/official/236107/overview/description) `1st Place`
