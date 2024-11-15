@@ -23,7 +23,8 @@
     - `2023` `Dacon` `Object Detection` Synthetic data based Object Detection `1/855`
 
 - Others
-
+    - `2024` `Autonomous AI Challenge` `lidar 3D Object Detection` 3D Object Detection `2/17`
+    - `2024` `Autonomous AI Challenge` `Instance Segmentation` Complex state recognition `2/20`
     - `2024` `SNUH Medical Image AI Challenge 2023` `Image & Tabular Regression` Melanoma Recurrence Prediction `1/12`
     - `2023` `K-water AI Competition 1st` `Object Detection` Fish Detection `1/69`
     - `2023` `2023 CJ Logistics Future Technology Challenge` `Object Detection` Image Retrieval and Object Detection `2/19`
