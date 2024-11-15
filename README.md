@@ -1,6 +1,6 @@
 ### About Me
-- B.S. in `Intelligent Mechatronics Engineering`, `Sejong University`
 - Joint M.S Ph.D in `Interdisciplinary Program in Artificial Intelligence`, `Seoul National University`
+- B.S. in `Intelligent Mechatronics Engineering`, `Sejong University`
 - Interests : `3D Vision`  `Sensor Fusion`  `3D Object Detection`  `3D Occupancy Prediction`
 
 ### Experiences
